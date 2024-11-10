@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task_019</string>
+    <string name="exit">Exit</string>
+    <string name="firstName">Имя</string>
+    <string name="lastName">Фамилия</string>
+    <string name="phone">Телефон</string>
+    <string name="dateInfoTV">сколько осталось до дня рождения</string>
+    <string name="outputDateInfoET">Остаток по времени</string>
+</resources>
